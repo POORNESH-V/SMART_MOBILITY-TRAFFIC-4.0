@@ -1,2 +1,2 @@
-# Coursera-Test
-It's a coursera test repository
+SMART MOBILITY: GPS Enabled Closed loop Traffic management system
+
